@@ -1,2 +1,2 @@
 # Vehicle-Seat-Vacancy-Identification-using-Image-Processing-Technique-
-Vehicle Seat Vacancy Identification using Image Processing Technique using Opencv,Python,Raspberrypi-3
+Vehicle Seat Vacancy Identification using Image Processing Technique - Opencv,Python,Raspberrypi-3
